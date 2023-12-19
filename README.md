@@ -14,4 +14,4 @@ I'm a Akash Bhagat specializing in front-end web development. I'm always open to
 
 
 ## Connect With Me!
-<a href="www.linkedin.com/in/akash-bhagat-04187b192" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/akash-bhagat-04187b192/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
