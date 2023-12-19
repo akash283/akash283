@@ -2,7 +2,7 @@
 Hi
 I'm a Akash Bhagat specializing in front-end web development. I'm always open to learning more and collaborating on projects!
 
-## Languages:
+## Language:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Frontend Development:
