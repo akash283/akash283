@@ -1,4 +1,4 @@
-### <div align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">Hello, my name is Akash. Welcome to my profile! </div>
+### <div align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Welcome to my profile! </div>
 
 ## About Me:
 I'm a Akash Bhagat specializing in front-end web development. I'm always open to learning more and collaborating on projects!
